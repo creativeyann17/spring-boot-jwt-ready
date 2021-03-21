@@ -1,3 +1,9 @@
+.idea
+.attach*
+*.iml
+/data
+/target
+
 # Compiled class file
 *.class
 
